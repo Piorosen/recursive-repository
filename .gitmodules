@@ -1,0 +1,4 @@
+[submodule "own"]
+	path = own
+	url = https://github.com/Piorosen/recursive-repository
+	branch = main
